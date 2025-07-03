@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-### FrontEnd:
+### Frontend:
 
 <table>
   <tr>
