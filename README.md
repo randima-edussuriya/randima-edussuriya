@@ -8,7 +8,7 @@
 
 ### Programming Languages:
 
-<table>
+<table border='0'>
   <tr>
     <td align="center">
         <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code><br/>
