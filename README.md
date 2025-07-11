@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td><h5>Programming Languages:</h5></td>
+    <td><h4>Programming Languages:</h4></td>
     <td align="center">
         <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code><br/>
         <sup>JavaScript</sup>
@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td><h5>Frontend:</h5></td>
+    <td><h4>Frontend:</h4></td>
     <td align="center">
         <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React"/></code><br/>
         <sup>React.js</sup>
@@ -56,13 +56,13 @@
 
 <table>
   <tr>
-    <td><h5>Backend:</h5></td>
+    <td><h4>Backend:</h4></td>
     <td align="center">
         <code><img width="35" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" title="Node.js"/></code><br/>
         <sup>Node.js</sup>
     </td>
     <td align="center">
-        <code><img width="35" src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></code><br/>
+        <code><img width="40" src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></code><br/>
         <sup>Express.js</sup>
     </td>
   </tr>
@@ -70,9 +70,9 @@
 
 <table>
   <tr>
-    <td><h5>Database:</h5></td>
+    <td><h4>Database:</h4></td>
     <td align="center">
-        <code><img width="35" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code><br/>
+        <code><img width="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code><br/>
         <sup>MySQL</sup>
     </td>
     <td align="center">
@@ -84,13 +84,13 @@
 
 <table>
   <tr>
-    <td><h5>Tools:</h5></td>
+    <td><h4>Tools:</h4></td>
     <td align="center">
         <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/></code><br/>
         <sup>Git</sup>
     </td>
     <td align="center">
-        <code><img width="35" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code><br/>
+        <code><img width="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code><br/>
         <sup>GitHub</sup>
     </td>
   </tr>
