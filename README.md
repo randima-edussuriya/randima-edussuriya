@@ -62,10 +62,6 @@
         <sup>Node.js</sup>
     </td>
     <td align="center">
-        <code><img width="35" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></code><br/>
-        <sup>Node.js</sup>
-    </td>
-    <td align="center">
         <code><img width="35" src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></code><br/>
         <sup>Express.js</sup>
     </td>
