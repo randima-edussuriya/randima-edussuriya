@@ -62,7 +62,7 @@
         <sup>Node.js</sup>
     </td>
     <td align="center">
-        <code><img width="40" src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></code><br/>
+        <code><img width="35" src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></code><br/>
         <sup>Express.js</sup>
     </td>
   </tr>
@@ -72,7 +72,7 @@
   <tr>
     <td><h4>Database:</h4></td>
     <td align="center">
-        <code><img width="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code><br/>
+        <code><img width="35" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code><br/>
         <sup>MySQL</sup>
     </td>
     <td align="center">
@@ -90,8 +90,24 @@
         <sup>Git</sup>
     </td>
     <td align="center">
-        <code><img width="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code><br/>
+        <code><img width="35" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code><br/>
         <sup>GitHub</sup>
+    </td>
+    <td align="center">
+        <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/></code><br/>
+        <sup>VS Code</sup>
+    </td>
+    <td align="center">
+        <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman"/></code><br/>
+        <sup>Postman</sup>
+    </td>
+    <td align="center">
+        <code><img width="35" src="./assets/chrome-devtools.svg" alt="Chrome DevTools" title="Chrome DevTools"/></code><br/>
+        <sup>Chrome DevTools</sup>
+    </td>
+    <td align="center">
+        <code><img width="35" src="./assets/xampp.svg" alt="XAMPP" title="XAMPP"/></code><br/>
+        <sup>XAMPP</sup>
     </td>
   </tr>
 </table>
