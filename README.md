@@ -118,7 +118,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randima-edussuriya&theme=dark&hide_border=true&border_radius=10&fire=00FFFF&text_color=cccccc&dates=cccccc&sideNums=00ffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randima-edussuriya&theme=dark&hide_border=true&border_radius=10&fire=00FFFF&text_color=cccccc&dates=cccccc&sideNums=00ffff" alt="streak-stats"/>
 </p>
 
 ---
