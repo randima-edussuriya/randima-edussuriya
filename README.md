@@ -1,10 +1,12 @@
-# Hi 👋, I'm **Randima Edussuriya**
+<h1 align="center">Hi 👋, I'm Randima Edussuriya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&letterSpacing=4px&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+MySQL;Problem+Solver+%7C+AI+Enthusiast+" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 My Skills Set
+---
+
+## 👨‍💻 Tech Stack & Tools
 
 <table>
   <tr>
@@ -56,7 +58,7 @@
 
 <table>
   <tr>
-    <td><h4>Backend:</h4></td>
+    <td><h4>Backend & Database:</h4></td>
     <td align="center">
         <code><img width="35" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" title="Node.js"/></code><br/>
         <sup>Node.js</sup>
@@ -64,20 +66,14 @@
     <td align="center">
         <code><img width="35" src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></code><br/>
         <sup>Express.js</sup>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><h4>Database:</h4></td>
-    <td align="center">
+        <td align="center">
         <code><img width="35" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code><br/>
         <sup>MySQL</sup>
     </td>
     <td align="center">
         <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/></code><br/>
         <sup>MongoDB</sup>
+    </td>
     </td>
   </tr>
 </table>
@@ -111,3 +107,28 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randima-edussuriya&show_icons=true&theme=dark&hide_border=true&border_radius=10&icon_color=00FFFF&hide_title=true&custom_title=My+GitHub+Stats&text_color=cccccc&ring_color=00ffff" alt="Randima's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randima-edussuriya&layout=compact&theme=dark&hide_border=true&&border_radius=10&text_color=cccccc&title_color=cccccc&&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randima-edussuriya&theme=dark&hide_border=true&border_radius=10&fire=00FFFF&text_color=cccccc&dates=cccccc&sideNums=00ffff" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/randima-edussuriya/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:d.randima.edussuriya@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/94712179248)
+
+---
+
+_⭐️ Feel free to explore my repositories and leave a star if you find something useful!_
