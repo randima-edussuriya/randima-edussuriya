@@ -6,6 +6,15 @@
 
 ---
 
+## 🚀 About Me
+
+- 🎓 IT Undergraduate pursuing a Bachelor of Information Technology (BIT) at the University of Moratuwa.  
+- 💡 Passionate about building secure, user-friendly, and scalable software solutions.  
+- 🚀 Continuously learning, experimenting, and improving my development skills.
+
+
+---
+
 ## 👨‍💻 Tech Stack & Tools
 
 <table>
@@ -123,7 +132,7 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/randima-edussuriya/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:d.randima.edussuriya@gmail.com)
@@ -131,4 +140,4 @@
 
 ---
 
-_⭐️ Feel free to explore my repositories and leave a star if you find something useful!_
+### _⭐️ Feel free to explore my repositories and leave a star if you find something useful!_
