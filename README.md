@@ -75,14 +75,14 @@
     <td align="center">
         <code><img width="35" src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js"/></code><br/>
         <sup>Express.js</sup>
-        <td align="center">
+    </td>
+    <td align="center">
         <code><img width="35" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code><br/>
         <sup>MySQL</sup>
     </td>
     <td align="center">
         <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/></code><br/>
         <sup>MongoDB</sup>
-    </td>
     </td>
   </tr>
 </table>
