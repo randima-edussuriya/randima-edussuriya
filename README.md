@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randima Edussuriya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+MySQL;Problem+Solver+%7C+AI+Enthusiast+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Problem+Solver+%7C+AI+Enthusiast+" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,10 +43,6 @@
         <sup>React.js</sup>
     </td>
     <td align="center">
-        <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code><br/>
-        <sup>Tailwind CSS</sup>
-    </td>
-    <td align="center">
         <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="React Bootstrap" title="React Bootstrap"/></code><br/>
         <sup>React Bootstrap</sup>
     </td>
@@ -79,10 +75,6 @@
     <td align="center">
         <code><img width="35" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code><br/>
         <sup>MySQL</sup>
-    </td>
-    <td align="center">
-        <code><img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/></code><br/>
-        <sup>MongoDB</sup>
     </td>
   </tr>
 </table>
