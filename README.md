@@ -8,10 +8,9 @@
 
 ## 🚀 About Me
 
-- 🎓 IT Undergraduate pursuing a Bachelor of Information Technology (BIT) at the University of Moratuwa.  
-- 💡 Passionate about building secure, user-friendly, and scalable software solutions.  
+- 🎓 IT Undergraduate pursuing a Bachelor of Information Technology (BIT) at the University of Moratuwa.
+- 💡 Passionate about building secure, user-friendly, and scalable software solutions.
 - 🚀 Continuously learning, experimenting, and improving my development skills.
-
 
 ---
 
@@ -62,6 +61,10 @@
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS"/><br/>
         <sup>CSS</sup>
     </td>
+    <td align="center" style="min-width:40px;">
+        <img width="40" src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" alt="Motion" title="Motion"/><br/>
+        <sup>Motion</sup>
+    </td>
   </tr>
 </table>
 
@@ -83,6 +86,14 @@
     <td align="center" style="min-width:40px;">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/><br/>
         <sup>MongoDB</sup>
+    </td>
+    <td align="center" style="min-width:40px;">
+        <img width="40" src="./assets/rest-api-blue.svg" alt="REST API" title="REST API"/><br/>
+        <sup>REST API</sup>
+    </td>
+    <td align="center" style="min-width:40px;">
+        <img width="40" src="https://cdn.brandfetch.io/id9sqpmbQ-/w/240/h/240/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756952762953" alt="JWT" title="JWT"/><br/>
+        <sup>JWT</sup>
     </td>
   </tr>
 </table>
