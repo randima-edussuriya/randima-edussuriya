@@ -88,7 +88,7 @@
         <sup>MongoDB</sup>
     </td>
     <td align="center">
-        <img width="40" src="./assets/rest-api-blue.svg" alt="REST API" title="REST API"/><br/>
+        <img width="40" src="./assets/rest-api-blue-1.svg" alt="REST API" title="REST API"/><br/>
         <sup>REST API</sup>
     </td>
     <td align="center">
