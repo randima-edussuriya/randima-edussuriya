@@ -16,9 +16,9 @@
 
 ## 👨‍💻 Tech Stack & Tools
 
-<table>
+<table align="center">
   <tr>
-    <td><h4>Programming Languages:</h4></td>
+    <h3 align="center">Programming Languages</h3>
     <td align="center">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/><br/>
         <sup>JavaScript</sup>
@@ -34,9 +34,9 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
-    <td><h4>Frontend:</h4></td>
+    <h3 align="center">Frontend</h3>
     <td align="center">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React"/><br/>
         <sup>React.js</sup>
@@ -68,9 +68,9 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
-    <td><h4>Backend & Database:</h4></td>
+    <h3 align="center">Backend & Database</h3>
     <td align="center">
         <img width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" title="Node.js"/><br/>
         <sup>Node.js</sup>
@@ -98,9 +98,9 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
-    <td><h4>Tools:</h4></td>
+    <h3 align="center">Tools</h3>
     <td align="center">
         <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/><br/>
         <sup>Git</sup>
