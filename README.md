@@ -88,8 +88,8 @@
         <sup>MongoDB</sup>
     </td>
     <td align="center">
-        <img width="40" src="./assets/rest-api-blue.svg" alt="REST API" title="REST API"/><br/>
-        <sup>REST API</sup>
+        <img width="40" src="./assets/rest-api-blue.svg" alt="RESTful APIs" title="RESTful APIs"/><br/>
+        <sup>RESTful APIs</sup>
     </td>
     <td align="center">
         <img width="40" src="https://cdn.brandfetch.io/id9sqpmbQ-/w/240/h/240/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756952762953" alt="JWT" title="JWT"/><br/>
